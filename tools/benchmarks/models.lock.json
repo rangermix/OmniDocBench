@@ -1,0 +1,92 @@
+{
+  "models": [
+    {
+      "repo_id": "docling-project/docling-layout-heron",
+      "revision": "8f39ad3c0b4c58e9c2d2c84a38465abf757272d8"
+    },
+    {
+      "repo_id": "docling-project/docling-models",
+      "revision": "fc0f2d45e2218ea24bce5045f58a389aed16dc23"
+    },
+    {
+      "repo_id": "docling-project/CodeFormulaV2",
+      "revision": "ecedbe111d15c2dc60bfd4a823cbe80127b58af4"
+    },
+    {
+      "repo_id": "ibm-granite/granite-docling-258M",
+      "revision": "982fe3b40f2fa73c365bdb1bcacf6c81b7184bfe"
+    },
+    {
+      "repo_id": "PaddlePaddle/PaddleOCR-VL-1.6",
+      "revision": "c5630abae1d940eafe0697512a0325494b02ab42"
+    }
+  ],
+  "sha256": {
+    "docling-project--CodeFormulaV2/.gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+    "docling-project--CodeFormulaV2/added_tokens.json": "002686b2efb9535c359458cd1121de8e1b58e67426a46e2bd4425843766a3a5e",
+    "docling-project--CodeFormulaV2/chat_template.json": "c9d21553af689882ac89ad8e8412164662d1605f6595119664e85626df7be421",
+    "docling-project--CodeFormulaV2/config.json": "98f55cfe07dd168f9fab1f1eec35f754b23631ea1a9a7c9759b1b7cb41ab76b1",
+    "docling-project--CodeFormulaV2/generation_config.json": "b17f1890b2b2baf172761c9c4d6eb956482ffa05964f357e67544ec998c9851f",
+    "docling-project--CodeFormulaV2/model.safetensors": "4b04e77af34c4e682a7ab1617628340d658f3c3dcd12456dd2a7fff805cf79d2",
+    "docling-project--CodeFormulaV2/preprocessor_config.json": "6cb6e36d6fcb88ca1502c4a26750715dc3e7dedddc9a8f17b27d8d167d1457e7",
+    "docling-project--CodeFormulaV2/processor_config.json": "e7bff42da73ae9eec9042ef20e066e11f1ee20f025358ff79131e3c0fb549b46",
+    "docling-project--CodeFormulaV2/README.md": "684604c08aa8cc32b3d65049bc9794b57f3fc510953148ad3ba61d35f60bef9a",
+    "docling-project--CodeFormulaV2/special_tokens_map.json": "1b17e900a73384d256db6f1a7591fd0d95c09e6aede680022b047386b97afcba",
+    "docling-project--CodeFormulaV2/tokenizer.json": "5ec5d3780a2e01b140cf34f023eb600263855a99aacdc3eb0f2600d7b1b4ac96",
+    "docling-project--CodeFormulaV2/tokenizer_config.json": "37a0e94be9c9ab5197b2188e61cf764bbc015f45261013881fe37bd2fe8599e6",
+    "docling-project--CodeFormulaV2/vocab.json": "8922f7e91084b9862d270c16ce1027071214aa252a1567a4b410f952101005fc",
+    "docling-project--docling-layout-heron/.gitattributes": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361",
+    "docling-project--docling-layout-heron/config.json": "fdea30805ce2f5666b147fca941dcdd27ad468e27d6ed21902207d3da056a97d",
+    "docling-project--docling-layout-heron/docling_heron_400.png": "e7f78610372b32a7938e480d2c7fa1c3037ee170bd82282a5bd026232f6e6f9e",
+    "docling-project--docling-layout-heron/model.safetensors": "00333a43451945aaf89db8ca9c0a17e75d1537c17db60fdb91aa95f4c7929e0c",
+    "docling-project--docling-layout-heron/preprocessor_config.json": "cd38cd59999e7a95d68e487fbe5132df3d4e5c32a0836add57e6126ba0c4eaf1",
+    "docling-project--docling-layout-heron/README.md": "175700839bc7808eac6af1d0c23e4f483606ab2276fe01122f4093e61a1a65b6",
+    "docling-project--docling-models/.gitattributes": "360aba3ff7ce75396f13f0a77925fe9e79997e8d4bac064595ebb00c82700386",
+    "docling-project--docling-models/.gitignore": "b44b404189eaff3631c470946e7350c2e88cead304d332a8ad50325e6f56e95d",
+    "docling-project--docling-models/config.json": "9c34024dc28ff47b75818f415e769809798c29bf9bde6f2ccc63a4acb62396d9",
+    "docling-project--docling-models/model_artifacts/tableformer/accurate/tableformer_accurate.safetensors": "2a7d6c924b3cd12fb99a09280ca9c33a89c5d60b93253617d2e088c1a40374d9",
+    "docling-project--docling-models/model_artifacts/tableformer/accurate/tm_config.json": "984e122ceb8ccf84d84c9d2882f6f2302a44b4f1e577babd6289892c36f3cffd",
+    "docling-project--docling-models/model_artifacts/tableformer/fast/tableformer_fast.safetensors": "3119563aab5a7c96fda4d621119b63fd8806272b86c30936d15507616422f718",
+    "docling-project--docling-models/model_artifacts/tableformer/fast/tm_config.json": "dca6762508dddfae6d57d6cb4ef822c6000119dff0f3b6489db7413118c2622a",
+    "docling-project--docling-models/README.md": "d17f233378eff1240b623b36da76ee8b40afcca05d505949713bf03f7e00822a",
+    "EasyOcr/craft_mlt_25k.pth": "4a5efbfb48b4081100544e75e1e2b57f8de3d84f213004b14b85fd4b3748db17",
+    "EasyOcr/zh_sim_g2.pth": "cb678fdef09d651e7763ca551ad790dc89f0b2e3d2a640484330e338fb574c7a",
+    "ibm-granite--granite-docling-258M/.gitattributes": "ac7414e1a380803ade2fd0e73945a89898b5630939f73704f534c2ba8da74567",
+    "ibm-granite--granite-docling-258M/added_tokens.json": "882e49757a3bea90e00df1d2dc8c18b2b526ff77380db20439feeb1f053a63cd",
+    "ibm-granite--granite-docling-258M/assets/granite_docling_split_page.png": "a1bd51ff1cea9daabc7f00522c7cc4b5905fa5cd3f67c40d0d707ee0686ce94b",
+    "ibm-granite--granite-docling-258M/assets/new_arxiv.png": "15e72aca956d9e796788eaa4b0debb9ae988ca7a9637ae3b6df1e6ce671d73d0",
+    "ibm-granite--granite-docling-258M/chat_template.jinja": "a4b0bf4348b014acca131da664d05b61e39d5dc8af980f1913846a57ccc6d289",
+    "ibm-granite--granite-docling-258M/config.json": "4fbb5d2ad9549663e5740b36a5f45cb3d861d20d2e1c158af8569765f9864f30",
+    "ibm-granite--granite-docling-258M/generation_config.json": "369256b622c73d709b248da31ba4332ef19c01dec6e311d8e4b671bc1321bc06",
+    "ibm-granite--granite-docling-258M/granite_docling.png": "f4d43939df541ab6958e989e7a6761a8db1ccb484dcb0c2749fedbb1357d2bb8",
+    "ibm-granite--granite-docling-258M/merges.txt": "b6fe424e334903f7fb84d3a106d9730455f4744b9fe3c21ee136d97a00e72502",
+    "ibm-granite--granite-docling-258M/model.safetensors": "1cdad234deb1cde18ee6a586f849057f19851daf1fedce2e40aff791dbe46f61",
+    "ibm-granite--granite-docling-258M/preprocessor_config.json": "6cb6e36d6fcb88ca1502c4a26750715dc3e7dedddc9a8f17b27d8d167d1457e7",
+    "ibm-granite--granite-docling-258M/processor_config.json": "e7bff42da73ae9eec9042ef20e066e11f1ee20f025358ff79131e3c0fb549b46",
+    "ibm-granite--granite-docling-258M/README.md": "b43727febeba2c6ce20b8746322e7687ca667d81a12d0364f346148f30622d84",
+    "ibm-granite--granite-docling-258M/special_tokens_map.json": "45c073d82ba37a1fc69c8d6a772d17a8e4f78b64b63c0fce2c77d18a3259d18e",
+    "ibm-granite--granite-docling-258M/tokenizer.json": "673ef3c60759806916ebf37c5d9b79f7ffd53a1419f1ebd75bfec8f177c2b1b3",
+    "ibm-granite--granite-docling-258M/tokenizer_config.json": "261f9491897226589c131a4ac5993c495eec2104dace144f69c397682865a3a0",
+    "ibm-granite--granite-docling-258M/vocab.json": "e2bad0ce74e6ddfece426ef99e18067f4a6c3d4e65bb6dd9cfd638450cca0142",
+    "PaddlePaddle--PaddleOCR-VL-1.6/.eval_results/real5_omnidocbench.yaml": "99219214a2793f849b55dc875a356917b8fc6d178455467e5a98e71a00689cf5",
+    "PaddlePaddle--PaddleOCR-VL-1.6/.gitattributes": "34448b82c17d60fec9b65b1f093c115ddbaadc04beb1b0140b6bfed2e012a930",
+    "PaddlePaddle--PaddleOCR-VL-1.6/added_tokens.json": "f59f889088e0fe21c523e7cf121bb6dca3b0bb148cb7159fbb4572c74dfc5644",
+    "PaddlePaddle--PaddleOCR-VL-1.6/chat_template.jinja": "2f27812dab7f333e471884e0c803d807f11953d5453140dfb1aaba234f872bc8",
+    "PaddlePaddle--PaddleOCR-VL-1.6/config.json": "ce7f4565f8b1db78532ad5d1b9ebe55c2139d49bd4cb04778b580a08a598f171",
+    "PaddlePaddle--PaddleOCR-VL-1.6/configuration_paddleocr_vl.py": "753dd93654c3a9c8c85a3eaee1e3092dd12591b0f2dce0305e1abfb7a41ff160",
+    "PaddlePaddle--PaddleOCR-VL-1.6/generation_config.json": "a6701d78ab3b4d972307cdec3b69d4c13f46e0d5140514f50ab7d84259324b94",
+    "PaddlePaddle--PaddleOCR-VL-1.6/image_processing_paddleocr_vl.py": "a4fa521b9cb16e207f94b7f2d16427771776dfc634420d319fc4916ee58049ec",
+    "PaddlePaddle--PaddleOCR-VL-1.6/inference.yml": "1587aece2d6442366efce34161d5f7d5f67f09ebfbf043168e5fade892c2780e",
+    "PaddlePaddle--PaddleOCR-VL-1.6/LICENSE": "b8c4d7deccd236af023af1c88c4d4e8f0fc2f41914e0fb23a3ec9678fb5a8456",
+    "PaddlePaddle--PaddleOCR-VL-1.6/model.safetensors": "85a479d506a11e724e7285d395c551be69f41dbc16b6342d3cacfb189aed71db",
+    "PaddlePaddle--PaddleOCR-VL-1.6/modeling_paddleocr_vl.py": "c5013dff57ca8b87dc1de64d0fd839a44313de09d230a4fb2d08289d2cad5111",
+    "PaddlePaddle--PaddleOCR-VL-1.6/preprocessor_config.json": "111872ab1e8bb7fd040ac5087bfced7ab8f011f02139b088cba294964c3b1d0e",
+    "PaddlePaddle--PaddleOCR-VL-1.6/processing_paddleocr_vl.py": "e29cb1e5f275f2bd3ce051bd5c9983a33894e693b2823a0e13d4c07c8c4f9e13",
+    "PaddlePaddle--PaddleOCR-VL-1.6/processor_config.json": "1568858960a9760c54431dae693a6152e601ff55cdf6d2eab97a4a99958faea0",
+    "PaddlePaddle--PaddleOCR-VL-1.6/README.md": "d6c5b77a660577f6e18021defccd835bdc93a8c6538f5a479d597f3e94288abf",
+    "PaddlePaddle--PaddleOCR-VL-1.6/special_tokens_map.json": "d3a125c03103deb2acaf7730791bdbbf196f620e5a2213b664511ff9b4b25bab",
+    "PaddlePaddle--PaddleOCR-VL-1.6/tokenizer.json": "c8a215a59183d0d0781adc33bacd3ce6162716f7fd568fb30234a74d69803a7d",
+    "PaddlePaddle--PaddleOCR-VL-1.6/tokenizer.model": "34ef7db83df785924fb83d7b887b6e822a031c56e15cff40aaf9b982988180df",
+    "PaddlePaddle--PaddleOCR-VL-1.6/tokenizer_config.json": "1f979337347cc0cb72a6282d8a23ed183539aa81a87a906f022aee2bab83c7c5"
+  }
+}
