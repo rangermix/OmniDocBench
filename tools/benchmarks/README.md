@@ -1,5 +1,11 @@
 # Docling comparison on OmniDocBench v1.6
 
+Completed comparison: [100 equation-hard pages, 2026-09-09](results/20260909-equation-hard-100/REPORT.md),
+with [machine-readable results](results/20260909-equation-hard-100/summary.json) and
+the [fixed input manifest](results/20260909-equation-hard-100/manifest.json).
+The user stopped the full queue and limited Paddle to100 pages. These scores
+describe that shared subset; published full-dataset scores are separate references.
+
 This experiment compares three local pipelines on the same 1,651 official page
 images, using the pinned public OmniDocBench evaluator. It does not change the
 Paper-Translation application or certify its parsing/release gates.
